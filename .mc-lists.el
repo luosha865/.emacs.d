@@ -15,5 +15,6 @@
 
 (setq mc/cmds-to-run-once
       '(
+	evil-digit-argument-or-evil-beginning-of-line
 	evil-ex
 	))
