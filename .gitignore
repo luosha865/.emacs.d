@@ -1,0 +1,12 @@
+*~
+auto-save-list
+eshell
+url
+var
+session.*
+*.elc
+tramp
+clang-complete
+projectile-bookmarks.eld
+projectile.cache
+ac-comphist.dat
